@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.grounded</id>
+  <name>Grounded</name>
+  <project_license>LicenseRef-proprietary</project_license>
+  <categories>
+  <category>Game</category>
+  </categories>
+  <developer_name>Endless Studios</developer_name>
+  <summary>Can you escape all the rooms? Observe the surroundings, think and apply your coding skills to solve the puzzles around you which may be the only means for you to escape!</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <launchable type="desktop-id">com.endlessnetwork.grounded.desktop</launchable>
+  <url type="homepage">http://thethirdterminal.com</url>
+  <description>
+    <p>Your parents are angry with your grades and now you are Grounded! But hey, nothing can hold you back… isn’t it? Play this beautifully designed game as you try to find your way to escape by analysing your surroundings and try solving puzzles using your coding knowledge. Learn coding as you play, which makes it engaging as well as educational! Sounds fun? Play it now and see for yourself!</p>
+  </description>
+  <releases>
+  <release version="1.0" date="2019-05-20"/>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">1.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">2.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">3.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">4.jpg</image>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+  <!-- Removed the content rating as none of them are relevant-->
+  <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <update_contact>nan_at_endlessnetwork.com</update_contact>
+</component>

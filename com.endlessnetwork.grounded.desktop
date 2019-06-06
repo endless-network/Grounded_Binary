@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Grounded
+Comment=An Escape Room Game
+Exec=com.endlessnetwork.grounded.sh
+Icon=com.endlessnetwork.grounded
+Terminal=false
+Type=Application
+Categories=Game;X-LearnToCode;
+Keywords=game;programming;puzzle;casual;
